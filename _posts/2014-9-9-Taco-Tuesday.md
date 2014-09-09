@@ -16,3 +16,5 @@ Let's make Tacos. You'll need following ingredients.:
 -fire
 
 -guac
+
+![Taco](http://www.tacobell.com/static_files/TacoBell/StaticAssets/images/food/foodtypes/slider_tacos_fiery_2013.png)
