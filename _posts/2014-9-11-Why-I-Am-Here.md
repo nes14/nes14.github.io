@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I Am Here
+title: First Post
 ---
 
 #Why I Am Here
