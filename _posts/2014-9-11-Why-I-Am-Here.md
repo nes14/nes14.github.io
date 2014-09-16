@@ -16,4 +16,5 @@ scratch and I love learning new techniques. I also find web development very rew
 ### Current Inspiration 
 
 -[Smashing Magazine](http://www.smashingmagazine.com/) - Has a lot of articles and tutorials that are great reads.
--[]()
+-[CSS Tricks](http://css-tricks.com/) - Really cool tips and tricks
+-[Internet Wish List] (http://theinternetwishlist.com/) A plethora of ideas to create on the internet!
