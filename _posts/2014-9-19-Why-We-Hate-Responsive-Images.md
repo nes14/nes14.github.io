@@ -4,9 +4,10 @@ title: Why We Hate Responsive Images
 ---
 
 ##It's true, We all hate working with images.
-&nbsp;&nbsp;&nbsp;  I remember when I first added an image to a website. I wrote out a simple image tag and copied a URL from Google images and was on my way. I didn't even bother with an ALT tag I was bad.   
-&nbsp;&nbsp;&nbsp;  Then came smart phones and images became to be a problem. You have this beautiful picutre of a pony and you want to get it out to all the pony lovers, but what if they all have different devices. *PonyLover_87* has an iPad so he can view the ponies in all it's glory on his retina display but *PonyBr0* only has a Nokia2 and might only get a glimpse of that wonderful mane.  
-&nbsp;&nbsp;&nbsp;  So what do we do about this? We the very minimum we can do is putting an image in a figure tag and setting that baby to a width of 100%. With this strategy you will be able to load an image and let the user zoom in and out and pan around.
+  I remember when I first added an image to a website. I wrote out a simple image tag and copied a URL from Google images and was on my way.I didn't even bother with an ALT tag I was bad.   
+  Then came smart phones and images became to be a problem. You have this beautiful picutre of a pony and you want to get it out to all the pony lovers, but what if they all have different devices. *PonyLover_87* has an iPad so he can view the ponies in all it's glory on his retina display but *PonyBr0* only has a Nokia2 and might only get a glimpse of that wonderful mane.  
+
+  So what do we do about this? We the very minimum we can do is putting an image in a figure tag and setting that baby to a width of 100%. With this strategy you will be able to load an image and let the user zoom in and out and pan around.
 
 ###CSS  
   ```
@@ -34,7 +35,7 @@ Let's look at some code here: (To be placed inside the head tag).
 
 &nbsp;&nbsp;&nbsp; After downloading the picturefill.js [file](http://scottjehl.github.io/picturefill/) and adding it to your project you can easily copy and paste the above snippet into your HTML file. That's the easy part.  
 
-###The Good Stuff    
+###The Good Stuff
 
  ```
  picture
