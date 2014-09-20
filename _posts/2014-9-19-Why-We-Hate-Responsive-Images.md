@@ -21,7 +21,7 @@ title: Why We Hate Responsive Images
 &nbsp;&nbsp;&nbsp; I know what you're thinking... *"I have to use Javascript just to showcase my pony pictures??"* It's really not as hard as you think. The wonderful people at [Filament group](http://filamentgroup.com/) maintain and helped make responsive images easier. It is worth noting that we will need to make different images to display on different viewports. Don't worry, I'll hold your hoof during all of this.
 Let's look at some code here: (To be placed inside the head tag).
 ###Basic Script Tags
-```
+ ```
   script
     // Picture element HTML5 shiv
     document.createElement( "picture" );
@@ -29,18 +29,18 @@ Let's look at some code here: (To be placed inside the head tag).
   
   script src="picturefill.js" async
   /script
-```
+ ```
 
 &nbsp;&nbsp;&nbsp; After downloading the picturefill.js [file](http://scottjehl.github.io/picturefill/) and adding it to your project you can easily copy and paste the above snippet into your HTML file. That's the easy part. 
 ###The Good Stuff
 
-```
-picture
+ ```
+ picture
 	<source srcset="images/desktop.jpg" media="(min-width: 1000px)">
 	<source srcset="images/tablet.jpg" media="(min-width: 786px)">
 	<img srcset="images/mobile.jpg" alt="Ponies 2014 Calendar Example">
-/picture
-```
+ /picture
+ ```
 
 &nbsp;&nbsp;&nbsp; Like above when we put our picture in a `<figure>` tag, here we are putting our images in a `<picture>` tag. we place the `<img>` at the bottom incase the browers doesn't know what do to do with our `<source srcset>`, it can atleast display something to the user which is better than nothing.
 
