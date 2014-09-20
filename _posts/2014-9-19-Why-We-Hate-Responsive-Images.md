@@ -19,11 +19,9 @@ title: Why We Hate Responsive Images
 ##PICTUREFILL.JS
 
 &nbsp;&nbsp;&nbsp; I know what you're thinking... *"I have to use Javascript just to showcase my pony pictures??"* It's really not as hard as you think. The wonderful people at [Filament group](http://filamentgroup.com/) maintain and helped make responsive images easier. It is worth noting that we will need to make different images to display on different viewports. Don't worry, I'll hold your hoof during all of this.
-Let's look at some code here:
+Let's look at some code here: (To be placed inside the head tag).
 ###Basic Script Tags
-
 ```
-<!--This bad boy will go inside the head tag, preferably at the end. -->
   <script>
     // Picture element HTML5 shiv
     document.createElement( "picture" );
