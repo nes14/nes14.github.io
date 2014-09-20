@@ -23,6 +23,7 @@ title: Why We Hate Responsive Images
 Let's look at some code here: (To be placed inside the head tag).
 
 ###Basic Script Tags  
+
  ```
   script
     // Picture element HTML5 shiv
