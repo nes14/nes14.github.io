@@ -25,10 +25,7 @@ Let's look at some code here: (To be placed inside the head tag).
 ###Basic Script Tags  
 
  ```
-  <script>
-   
-    document.createElement( "picture" );
-  </script>
+  <script> document.createElement( "picture" ); </script>
   
   <script src="picturefill.js" async>
   </script>
