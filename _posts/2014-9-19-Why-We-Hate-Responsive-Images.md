@@ -26,9 +26,9 @@ Let's look at some code here: (To be placed inside the head tag).
 
  ```
   <script>
-    // Picture element HTML5 shiv
+   
     document.createElement( "picture" );
-  /script
+  </script>
   
   <script src="picturefill.js" async>
   </script>
