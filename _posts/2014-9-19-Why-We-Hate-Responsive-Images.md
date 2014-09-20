@@ -25,13 +25,13 @@ Let's look at some code here: (To be placed inside the head tag).
 ###Basic Script Tags  
 
  ```
-  script
+  <script>
     // Picture element HTML5 shiv
     document.createElement( "picture" );
   /script
   
-  script src="picturefill.js" async
-  /script
+  <script src="picturefill.js" async>
+  </script>
  ```
 
 &nbsp;&nbsp;&nbsp; After downloading the picturefill.js [file](http://scottjehl.github.io/picturefill/) and adding it to your project you can easily copy and paste the above snippet into your HTML file. That's the easy part.  
