@@ -20,6 +20,7 @@ title: Why We Hate Responsive Images
 
 &nbsp;&nbsp;&nbsp; I know what you're thinking... *"I have to use Javascript just to showcase my pony pictures??"* It's really not as hard as you think. The wonderful people at [Filament group](http://filamentgroup.com/) maintain and helped make responsive images easier. It is worth noting that we will need to make different images to display on different viewports. Don't worry, I'll hold your hoof during all of this.
 Let's look at some code here: (To be placed inside the head tag).
+
 ###Basic Script Tags  
  ```
   script
@@ -32,7 +33,8 @@ Let's look at some code here: (To be placed inside the head tag).
  ```
 
 &nbsp;&nbsp;&nbsp; After downloading the picturefill.js [file](http://scottjehl.github.io/picturefill/) and adding it to your project you can easily copy and paste the above snippet into your HTML file. That's the easy part.  
-  ###The Good Stuff    
+
+###The Good Stuff    
 
  ```
  picture
