@@ -34,11 +34,11 @@ Let's look at some code here: (To be placed inside the head tag).
 ###The Good Stuff
 
  ```
- picture
+ <picture>
 	<source srcset="images/desktop.jpg" media="(min-width: 1000px)">
 	<source srcset="images/tablet.jpg" media="(min-width: 786px)">
 	<img srcset="images/mobile.jpg" alt="Ponies 2014 Calendar Example">
- /picture
+ </picture>
  ```  
 
 &nbsp;&nbsp;&nbsp; Like above when we put our picture in a `<figure>` tag, here we are putting our images in a `<picture>` tag. we place the `<img>` at the bottom incase the browers doesn't know what do to do with our `<source srcset>`, it can atleast display something to the user which is better than nothing.
