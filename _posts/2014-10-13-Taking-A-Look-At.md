@@ -10,4 +10,4 @@ After looking at this page on Internet Explorer, Chrome and Mobile I was blown a
 
 I found the transitions from one state of the page to another a little distracting. The fade in and fade outs overlapped each other and it was a little weird seeing that. I noticed that on the third scroll down the page took on a life of it’s own and began to zoom in on an island without me having to do anything. 
 
-To me it feels like this site was a movie, a bunch of scenes lined up right after each other and they will only be shown in a particular order. I lost the sense of being able to control anything besides going up and down and that was a different experience. 
+To me it feels like this site was a movie, a bunch of scenes lined up right after each other and they will only be shown in a particular order. I lost the sense of being able to control anything besides going up and down and that was a different experience.  :satisfied: 
