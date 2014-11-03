@@ -20,3 +20,10 @@ My Object Oriented Programming Teacher raves about encapsulation. Shadow DOM is 
 `Custom Elements`
 I see custom elements to be very useful for managing web apps and it reminds me of creating classes, instances of classes, and subclasses like you can in C#. It is very easy to take a button and give it the attributes of a button but also give it it's own characteristics. 
 
+`HTML Imports`
+If you were to save a HTML file as a template you could share it and reuse it over and over. If you're working on a blog and you want to give each entry its own page, you can make a template and import it and use it. It would save a lot of time.
+
+
+Can't wait to start using these in real life projects. 
+:sunglasses:
+
