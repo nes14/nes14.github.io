@@ -13,5 +13,7 @@ It's hard to come up with uses for something I didn't even know was an issue. Bu
 ###Reusability.
 We can resuse, share and import templates to use on the fly. We plug in our info and we're good to go. It speeds up development and makes our work easier for us. 
 
-
+Some good reads! - 
+[http://www.html5rocks.com/en/tutorials/webcomponents/template/](HTML5 Rocks - Templates)
+[http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/](Shadow DOM)
 
