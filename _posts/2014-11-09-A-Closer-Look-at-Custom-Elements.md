@@ -15,7 +15,7 @@ We can resuse, share and import templates to use on the fly. We plug in our info
 
 Some good reads! -
 
-[http://www.html5rocks.com/en/tutorials/webcomponents/template/] (HTML5 Rocks - Templates)
+[HTML5 Rocks - Templates](http://www.html5rocks.com/en/tutorials/webcomponents/template/HTML5 Rocks - Templates)
 
-[http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/] (Shadow DOM)
+[Shadow DOM](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
 
