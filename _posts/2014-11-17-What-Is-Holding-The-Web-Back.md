@@ -1,8 +1,8 @@
 ---
 layout: post
-title: What is holding the web back
+title: What is holding the Web back
 ---
-##What is holding the web back
+##What Is Holding The Web Back
 
 ####Outdated browsers
 First we have to find out what machines are running old outdated browsers. Yeah, your typical grandma from Kansas is running windows XP with Internet Explorer 7 or worse. But that is just one grandma. The majority of the culprits are big businesses.
