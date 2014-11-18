@@ -15,3 +15,7 @@ Big companies make up part of the problem, grandma's make up a small chunk follo
 Lets assume JPMorgan counts their money using an old software. JPMorgan has a lot of money and they need it counted everyday, to make sure it's all there. If they were to update their system, their money counter would stop working. They would need to invest money in a new money counter. In updating, you are throwing a wrench into the system and it haults any progress until you create new applications that can run on new software. 
 [Nice read up](https://teamtreehouse.com/forum/why-do-people-stay-with-old-browsers)
 ###What websites are we talking about
+
+http://www.smashingmagazine.com/2012/07/09/old-browsers-are-holding-back-the-web/
+
+http://www.smashingmagazine.com/2012/07/10/dear-web-user-please-upgrade-your-browser/
