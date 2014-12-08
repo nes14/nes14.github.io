@@ -30,6 +30,10 @@ Open up your terminal and check the current version of ruby.
 $ ruby -v
 ```
 
+{% highlight Ruby %}
+$ ruby -v
+{% endhighlight %}
+
 It is very important where you put the minus sign in the correct spot. Trust me. You should be running Ruby 2.0.0p481 or anything that is 2.0.
 
 ###Databases
