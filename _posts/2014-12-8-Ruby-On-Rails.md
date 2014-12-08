@@ -54,7 +54,7 @@ $ rails -v
 
 ###Where we are so far
 At this point we have rails, ruby and the database installed and up to date.
-We are going to create a blog on our system and run it locally by creating a local server. (I know that sounds like some hacker stuff) 
+We are going to create a simple web app on our system and run it locally by creating a local server. (I know that sounds like some hacker stuff) 
 
 ###Help 
 By running the following code you will be met with some very helpful information on what the keyboard shortcuts are for rails.
