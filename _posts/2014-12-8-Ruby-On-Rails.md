@@ -1,4 +1,4 @@
 ---
-layout:post
-title: Ruby on Rails: Intro
+layout: post
+title: Intro to Ruby on Rails
 ---
