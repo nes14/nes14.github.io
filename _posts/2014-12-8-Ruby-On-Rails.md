@@ -25,22 +25,29 @@ I am running everything on a Mac so everything might be a little different if yo
 - Misc.
 
 Open up your terminal and check the current version of ruby.
+
 ```Ruby
 $ ruby -v
 ```
+
 It is very important where you put the minus sign in the correct spot. Trust me. You should be running Ruby 2.0.0p481 or anything that is 2.0.
 
 ###Databases
+
 ```Ruby
 $ sqlite3 --version
 ```
+
 Qlite3 is the default database platform that will work with ROR right out of the box. So it is important that we check which version we have installed. I am currently running 3.8.5. 
 
-###Next we must install rails on our system. 
+###Next we must install rails on our system.
+
 ```Ruby
 $ sudo gem install rails
 ```
+
 I have tried installing rails without including 'sudo' but that just doesn't work for me. I am running rails 4.1.8 on my system. Anything above 4.1.1 will work just fine. 
+
 ```Ruby
 $ rails -v
 ```
