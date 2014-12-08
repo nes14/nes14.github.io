@@ -115,3 +115,8 @@ So lets start up the server again and go to the local host page.
 ###You Did It!
 You have just succesfully set up Ruby on Rails on your machine and you can show of your page locally and you're well on your way to making web apps. 
 
+###More Help
+-[Ruby on Rails](http://guides.rubyonrails.org/getting_started.html)
+-[Codecademy : Ruby](http://www.codecademy.com/tracks/ruby)
+-[Code School : Rails for Zombies](http://railsforzombies.org/)
+-[Lynda : Ruby on Rails](http://www.lynda.com/search?q=ruby+on+rails)
