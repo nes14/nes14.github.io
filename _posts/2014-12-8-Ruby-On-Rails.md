@@ -74,11 +74,16 @@ Now that you are in the folder, running this next line will turn on your server.
 $ rails s
 ```
 How do you know your server is up and running? Open up a browser window and enter `localhost:3000` You should be met with a lovely welcome.  `Ctrl-C` will turn off your server. 
+***
 
-###Hello World!
+##Hello World!
 I have found that is runs best after shutting down the server. From your main folder, running the next code snippet will make rails create a few folders that will help you say 'hello, world!'
 
 ```
 $ rails generate controller welcome index
 ```
-What we have just done is tell rails to create a controller called 'welcome' with an action called 'index'. 
+What we have just done is tell rails to create a controller called 'welcome' with an action called 'index'. In your favorite text editor, navigate to your folder that we have created and open up `app/views/welcome/index.html.erb`. Delete any/all of the text and you can have it say whatever you want. This will be our home page. We know that but Rails doesn't know that. So we have to let them know whats up. 
+
+So lets open up `config/routes.rb` and do some light typing. Uncommenting line 8 `#root 'welcome#index'` will tell rails that any inquiries to `localhost:3000` will be directed to your `welcome/index.html`. 
+
+So lets start up the server again and go to the local host page. 
