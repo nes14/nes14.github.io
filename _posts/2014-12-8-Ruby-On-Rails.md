@@ -48,9 +48,9 @@ $ sudo gem install rails
 
 I have tried installing rails without including 'sudo' but that just doesn't work for me. I am running rails 4.1.8 on my system. Anything above 4.1.1 will work just fine. 
 
-```Ruby
+{% highlight Ruby %}
 $ rails -v
-```
+{% endhighlight %}
 
 
 
@@ -60,18 +60,24 @@ We are going to create a simple web app on our system and run it locally by crea
 
 ###Help 
 By running the following code you will be met with some very helpful information on what the keyboard shortcuts are for rails.
-```Ruby
+
+{% highlight Ruby %}
 $ rails -version
-```
+{% endhighlight %}
+
 ###Ruby Make New Please
 When we want to create something totally new, we just tell our terminal to create something new using rails. We don't even have to say please!
-```
+
+{% highlight Ruby %}
 $ rails new blog
-```
-But it we want to put it in a specific place we can do this
-```
+{% endhighlight %}
+
+But it we want to put it in a specific place we can do this:
+
+{% highlight Ruby %}
 $ rails new ~/Desktop/FolderNameHere
-```
+{% endhighlight %}
+
 You'll notice that rails is doing all of the work for you. It is making all of the folders it thinks you might need. This next line will switch to that folder.
 
 ```
