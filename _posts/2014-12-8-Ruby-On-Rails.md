@@ -117,7 +117,7 @@ You have just succesfully set up Ruby on Rails on your machine and you can show 
 
 ###More Help
 
--[Ruby on Rails](http://guides.rubyonrails.org/getting_started.html)
+-[Ruby on Rails . org](http://guides.rubyonrails.org/getting_started.html)
 
 -[Codecademy : Ruby](http://www.codecademy.com/tracks/ruby)
 
