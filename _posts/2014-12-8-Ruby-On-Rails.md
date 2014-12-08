@@ -84,12 +84,15 @@ You'll notice that rails is doing all of the work for you. It is making all of t
 $ cd Desktop/FolderNameHere
 {% endhighlight %}
 
+
 ***
 Now that you are in the folder, running this next line will turn on your server.
+
 
 {% highlight Ruby %}
 $ rails s
 {% endhighlight %}
+
 
 How do you know your server is up and running? Open up a browser window and enter `localhost:3000` You should be met with a lovely welcome.  `Ctrl-C` will turn off your server. 
 ***
@@ -97,9 +100,11 @@ How do you know your server is up and running? Open up a browser window and ente
 ##Hello World!
 I have found that is runs best after shutting down the server. From your main folder, running the next code snippet will make rails create a few folders that will help you say 'hello, world!'
 
+
 {% highlight Ruby %}
 $ rails generate controller welcome index
 {% endhighlight %}
+
 
 What we have just done is tell rails to create a controller called 'welcome' with an action called 'index'. In your favorite text editor, navigate to your folder that we have created and open up `app/views/welcome/index.html.erb`. Delete any/all of the text and you can have it say whatever you want. This will be our home page. We know that but Rails doesn't know that. So we have to let them know whats up. 
 
