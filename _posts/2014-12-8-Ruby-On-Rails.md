@@ -56,7 +56,7 @@ $ rails -v
 
 ###Where we are so far
 At this point we have rails, ruby and the database installed and up to date.
-We are going to create a simple web app on our system and run it locally by creating a local server. (I know that sounds like some hacker stuff) 
+We are going to create a simple hello web app on our system and run it locally by creating a local server. (I know that sounds like some hacker stuff) 
 
 ###Help 
 By running the following code you will be met with some very helpful information on what the keyboard shortcuts are for rails.
@@ -111,3 +111,7 @@ What we have just done is tell rails to create a controller called 'welcome' wit
 So lets open up `config/routes.rb` and do some light typing. Uncommenting line 8 `#root 'welcome#index'` will tell rails that any inquiries to `localhost:3000` will be directed to your `welcome/index.html`. 
 
 So lets start up the server again and go to the local host page. 
+
+###You Did It!
+You have just succesfully set up Ruby on Rails on your machine and you can show of your page locally and you're well on your way to making web apps. 
+
